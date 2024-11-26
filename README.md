@@ -1,4 +1,4 @@
-## Getting Started with nextjs-ruocco-sentences
+## Getting Started with juan-ruocco-quotes-generator
 
 First, run the development server:
 
